@@ -55,7 +55,7 @@ public class SignText {
     }
 
     public Sign getTargetSign() {
-        return targetSign;
+        return targetSign
     }
 
     public void setTargetSign(Sign targetSign) {
